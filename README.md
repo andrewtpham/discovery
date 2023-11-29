@@ -5,4 +5,3 @@ This repository is a collection of data projects I'm taking on as I refresh and 
 ## How its organized
 
 Each folder will include a `notebook.ipynb` file and another folder of all datasets used.
-
